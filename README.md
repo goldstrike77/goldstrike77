@@ -8,4 +8,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldstrike77&show_icons=true&locale=en&layout=compact" alt="goldstrike77" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldstrike77&show_icons=true&locale=en" alt="goldstrike77" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldstrike77&show_icons=true&locale=en&theme=moltack" alt="goldstrike77" /></p>
